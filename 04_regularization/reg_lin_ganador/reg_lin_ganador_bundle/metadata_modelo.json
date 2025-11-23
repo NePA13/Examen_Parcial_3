@@ -1,8 +1,8 @@
 {
   "modelo_ganador": "Lasso",
-  "R2_test": 0.6551019248465869,
-  "RMSE_test": 52485.98577968998,
-  "MAE_test": 39102.869682164346,
+  "R2_test": 0.655101924846587,
+  "RMSE_test": 52485.985779689974,
+  "MAE_test": 39102.86968216433,
   "columnas_esperadas": [
     "PC1",
     "PC2",
@@ -29,5 +29,5 @@
     "centralAir___No",
     "centralAir___Yes"
   ],
-  "fecha_guardado": "2025-11-22 17:09:37"
+  "fecha_guardado": "2025-11-22 18:35:51"
 }
